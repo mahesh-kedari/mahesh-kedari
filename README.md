@@ -1,4 +1,4 @@
-### Mahesh Kedari (Preferred: Mahesh/Maddy)
+## Mahesh Kedari (Preferred: Mahesh/Maddy)
 
 <!--
 **mahesh-kedari/mahesh-kedari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
