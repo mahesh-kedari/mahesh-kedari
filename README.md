@@ -18,3 +18,11 @@
 
 - 🧘 Regular Yoga Practitionor
 - 🧗‍♂️ Love to travel and visit new places, specially mountains
+
+### 📊 GitHub Stats:
+---
+![Mahesh github stats](https://github-readme-stats.vercel.app/api?username=mahesh-kedari&theme=radical&show_icons=true&count_private=true)
+
+![Mahesh Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahesh-kedari&theme=solarized_dark)
+![Mahesh Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahesh-kedari&theme=solarized_dark)
+![Mahesh Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahesh-kedari&theme=solarized_dark)
