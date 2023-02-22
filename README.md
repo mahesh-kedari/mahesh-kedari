@@ -1,4 +1,8 @@
 ## Mahesh Kedari (Preferred: Mahesh/Maddy)
+### 🏆 GitHub Profile Trophy:
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahesh-kedari&column=8&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👨‍💻 I'm a full stack developer currently working on ReactJS, Python and AWS
 - 🎓 Completed my graduations in 2007
