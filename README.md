@@ -7,10 +7,10 @@
 - 👨‍💻 I'm a full stack developer currently working on ReactJS, Python and AWS
 - 🎓 Completed my graduations in 2007
 - 💬 Would love to discuss about React, HTML, CSS, Javascript, Python, AWS
-- 📨 Reach out to me at  [LinkedIn](https://www.linkedin.com/in/maheshkedari/) or [Twitter](https://twitter.com/mahesh_k07)
+- 📨 Know more about me at  [LinkedIn](https://www.linkedin.com/in/maheshkedari/) or [Twitter](https://twitter.com/mahesh_k07)
 - 👨‍💻 Currently serving my skills at Shoreline IoT in Industrial IoT Domain
 - 🖥️ Check my work at [CodeSandbox](https://codesandbox.io/u/mahesh-kedari)
-- 🖥️ Check my Leetcode Profile at [Leetcode](https://leetcode.com/u/maheshkedari/)
+- 🧩 Check my Leetcode Profile at [Leetcode](https://leetcode.com/u/maheshkedari/)
 - 🧑‍🏫 Currently studying UX design
 - 🎓 [Certified AWS Developer Associate](https://www.credly.com/badges/474dff72-b212-42be-a4eb-bf33004a2a41?)
 - 🎓 [Certified AWS Solution Architect Associate](https://www.credly.com/badges/71792e08-eaf6-4a14-aec6-bdb7e09f8173)
