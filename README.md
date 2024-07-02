@@ -57,22 +57,15 @@
 
 ---
 
-## 🌟 Highlights
-### Project 1: [Project Name](https://github.com/mahesh-kedari/PROJECT_NAME)
-**Description:** Brief description of the project, technologies used, and the impact or outcomes.
-
-### Project 2: [Project Name](https://github.com/mahesh-kedari/ANOTHER_PROJECT_NAME)
-**Description:** Brief description of the project, technologies used, and the impact or outcomes.
-
----
-
-## 🎨 Header Image
-![Header Image](https://via.placeholder.com/1200x300.png?text=Your+Header+Image)
-
----
-
 ## 💼 Professional Summary
-A brief summary of your career journey, key achievements, and future goals.
+
+**Principal Engineer @ Shoreline IoT | AWS, Python, ReactJS**
+
+Building cutting-edge IoT solutions with Shoreline IoT
+
+As a Principal Engineer at Shoreline IoT, I have over 15 years of software engineering experience and multiple certifications in AWS, Microsoft, Oracle, and Meta technologies. I lead a team of 10 developers and oversee the architecture and development of the Shoreline IoT Cloud, a scalable and secure platform that leverages AWS, Python, and ReactJS technologies.
+
+I am also involved in creating an innovative chatbot using OpenAI and Generative AI techniques, which is a key differentiator for our company and our clients. I am passionate about learning new technologies and finding better ways to solve problems. I am looking for opportunities to collaborate with other professionals and contribute to the success of the software industry.
 
 ---
 
